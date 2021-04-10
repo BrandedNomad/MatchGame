@@ -1,6 +1,6 @@
 # Match Game
 
-A simple Match tile game. [Click Here To Play](https://brandednomad.github.io/MatchGame/)
+A simple match-tile game. [Click Here To Play](https://brandednomad.github.io/MatchGame/)
 
 ## Motivation
 
